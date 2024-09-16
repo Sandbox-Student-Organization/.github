@@ -1,4 +1,4 @@
-![](../Sandbox%20Cover%20Photo.png)
+![](../assets/Sandbox%20Cover%20Photo.png)
 
 # Sandbox
 Welcome to the official GitHub repository of **Sandbox Student Organization**, a dynamic group of students at **Colegio de Montalban** who are passionate about technology, innovation, and collaboration.
